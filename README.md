@@ -9,9 +9,7 @@ Contend
    1.2. [Path Patching](##Path-Patching)
    1.3. [Feature Patching](##Feature-Patching)
    1.4. [Global Activation Patching](##Global-Activation-Patching)
-
-   
-3. [Ablation-Based Methods](#ablation-based-methods)
+2. [Ablation-Based Methods](#ablation-based-methods)
 
 ## Patch-Based Methods
 Patching methods aim to analyze whether a component has the same impact in two scenarios by replacing the activation values, paths, or feature representations of a certain component in the model.
