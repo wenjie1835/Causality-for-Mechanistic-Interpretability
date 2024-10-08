@@ -2,26 +2,15 @@
 This repository features research papers focused on achieving mechanistic interpretability through causality. By leveraging causal reasoning, these studies aim to unravel how specific components in AI models contribute to decision-making processes, enhancing transparency and reliability in AI systems.
 Contend
 
-# Table of Contents: Causal Interpretability at Different Levels
+# Table of Contents: Causal Interpretability with Different Intervention Methods
 
-1. [Neuron Level](#neuron-level)
-2. [Feature Level](#feature-level)
-3. [Module Level](#module-level)
-4. [Layer Level](#layer-level)
-5. [Global Level](#global-level)
+1. [Patch-Based Methods](#patch-based-methods)
+2. [Ablation-Based Methods](#ablation-based-methods)
 
-## Neuron Level
-Causal interpretability focused on individual neurons.
+## Patch-Based Methods
+Causal interpretability through interventions that patch or modify parts of the model.
 
-## Feature Level
-Causal interpretability focused on individual features in the model.
+## Ablation-Based Methods
+Causal interpretability using ablation techniques, where parts of the model are removed or deactivated to study their effects.
 
-## Module Level
-Causal interpretability at the module level, analyzing specific components or substructures of the model.
-
-## Layer Level
-Causal interpretability across layers of the model.
-
-## Global Level
-Causal interpretability across the entire model.
 
