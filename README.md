@@ -20,6 +20,7 @@ Patching methods aim to analyze whether a component has the same impact in two s
 ### Subgrapg/Circiut Patching
 1. (ICLR 2024) **Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching.** _Makelov_. [[pdf](https://openreview.net/forum?id=Ebt7JgMHv1)]
 2. (NIPS 2023) **Towards Automated Circuit Discovery for Mechanistic Interpretability.** _Conmy_. [[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Paper-Conference.pdf)]
+3. (arXiv 2024) **Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms.** _Hanna_. [[pdf](https://arxiv.org/abs/2403.17806)]
 ### Feature Patching
 
 ### Hybrid Patching
