@@ -4,7 +4,7 @@ Contend
 
 # Table of Contents: Causal Interpretability with Different Intervention Methods
 
-1. [Patch-Based Methods](#patch-based-methods)\\
+1. [Patch-Based Methods](#patch-based-methods)%
    1.1. [Activation Patching](##Activation-Patching)
    1.2. [Path Patching](##Path-Patching)
    1.3. [Feature Patching](##Feature-Patching)
