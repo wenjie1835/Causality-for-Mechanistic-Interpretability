@@ -8,9 +8,9 @@ Contend
 2. [Ablation-Based Methods](#ablation-based-methods)
 
 ## Patch-Based Methods
-Causal interpretability through interventions that patch or modify parts of the model.
+Patching methods aim to analyze whether a component has the same impact in two scenarios by replacing the activation values, paths, or feature representations of a certain component in the model.
 
 ## Ablation-Based Methods
-Causal interpretability using ablation techniques, where parts of the model are removed or deactivated to study their effects.
+Ablation methods evaluate the contribution of a component to the model's output by deleting or disabling that component.
 
 
