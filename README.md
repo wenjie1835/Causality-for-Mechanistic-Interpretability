@@ -15,6 +15,7 @@ Contend
 ## Patch-Based Methods
 Patching methods aim to analyze whether a component has the same impact in two scenarios by replacing the activation values, paths, or feature representations of a certain component in the model.
 ### Activation Patching
+1. (arXiv 20024) **Towards Best Practices of Activation Patching in Language Models: Metrics and Methods.** _Bereska_. [[pdf](https://arxiv.org/abs/2309.16042)]
 ### Path Patching
 ### Feature Patching
 ### Global Activation Patching
