@@ -34,4 +34,8 @@ Ablation methods evaluate the contribution of a component to the model's output 
 ### Path Ablation
 
 ### Layer Ablation
+## Interpretable Tools
+We broadly categorize the improvement directions for interpretable tools into two types: addressing linear approximation issues and sparsity problems
+### Linear Approximation
 
+### Sparsity
