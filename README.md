@@ -13,6 +13,7 @@ Contend
    - [2.1. Neuron Ablation](##Neuron-Ablation)
    - [2.2. Path Ablation](##Path-Ablation)
    - [2.3. Layer Ablation](##Layer-Ablation)
+- [3. Interpretable Tools](#interpretable-tools)
 ## Patch-Based Methods
 Patching methods aim to analyze whether a component has the same impact in two scenarios by replacing the activation values, paths, or feature representations of a certain component in the model.
 ### Activation Patching
